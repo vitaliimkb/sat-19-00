@@ -3,5 +3,11 @@
         "title":"PS5",
         "price":"30000",
         "rating":"5/5"
+    },
+
+    {
+        "title":"IPhone",
+        "price":"65000",
+        "rating":"4.8 /5"
     }
 ]
